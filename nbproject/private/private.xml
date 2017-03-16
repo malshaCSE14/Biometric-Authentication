@@ -4,9 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/F:/Micro%20Controllers%20and%20Applications/HandGeometryApp/src/handgeometryapp/HandGeometryApp.java</file>
+            <file>file:/F:/Micro%20Controllers%20and%20Applications/HandGeometryApp/src/handgeometryapp/Verification.java</file>
+            <file>file:/F:/Micro%20Controllers%20and%20Applications/HandGeometryApp/src/handgeometryapp/IOhandling.java</file>
             <file>file:/F:/Micro%20Controllers%20and%20Applications/HandGeometryApp/src/handgeometryapp/Startup.java</file>
             <file>file:/F:/Micro%20Controllers%20and%20Applications/HandGeometryApp/src/handgeometryapp/User.java</file>
-            <file>file:/F:/Micro%20Controllers%20and%20Applications/HandGeometryApp/src/handgeometryapp/UserDetailsEntry.java</file>
             <file>file:/F:/Micro%20Controllers%20and%20Applications/HandGeometryApp/src/handgeometryapp/NewUser.java</file>
         </group>
     </open-files>
